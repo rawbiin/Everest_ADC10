@@ -1,0 +1,16 @@
+SOLID is an acronym for 5 important design principles when doing OOP (Object Oriented Programming).They are as Follows.
+S — Single responsibility principle
+O — Open/closed principle
+L — Liskov substitution principle
+I — Interface segregation principle
+D - Dependency inversion principle
+
+These principles, when combined together make it easy for a programmer to develop software that are easy to maintain and extend.
+They also make it easy for developers to avoid code smells, easily refactor code, 
+and are also a part of the agile or adaptive software development.
+
+1. S — Single responsibility principle
+In programming, the Single Responsibility Principle states that every module or class should have responsibility over a single part of 
+the functionality provided by the softwareYou may have heard the quote: “Do one thing and do it well”.
+This refers to the single responsibility principle.Responsibility is defined as a ‘reason to change’, 
+and concludes that a class or module should have one, and only one, reason to be changed.
